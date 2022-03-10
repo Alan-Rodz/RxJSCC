@@ -1,0 +1,23 @@
+{
+  "name": "RxJSCC",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alan-Rodz/RxJSCC.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Alan-Rodz/RxJSCC/issues"
+  },
+  "homepage": "https://github.com/Alan-Rodz/RxJSCC#readme",
+  "dependencies": {
+    "rxjs": "^7.5.5"
+  }
+}
